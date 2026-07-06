@@ -1,0 +1,17 @@
+build/
+install/
+log/
+__pycache__/
+*.pyc
+logs/
+*.log
+*.BIN
+rmse_*.txt
+frame_*.jpg
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.pem
+*.key
+.env
