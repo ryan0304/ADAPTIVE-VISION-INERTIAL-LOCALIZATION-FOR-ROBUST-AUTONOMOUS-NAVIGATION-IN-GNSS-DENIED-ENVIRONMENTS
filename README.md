@@ -1,0 +1,2 @@
+# ADAPTIVE-VISION-INERTIAL-LOCALIZATION-FOR-ROBUST-AUTONOMOUS-NAVIGATION-IN-GNSS-DENIED-ENVIRONMENTS
+Autonomous hexacopter navigation in GNSS-denied environments. Uses ArUco fiducial markers as visual anchors, optical flow, and rangefinder for indoor flight without GPS. ROS2 perception with adaptive covariance, pymavlink control, ArduCopter 4.6.3 EKF3. Achieves 0.04–0.06 m centring RMSE on autonomous A→B→C missions. FYP · MMU 2025/2026.
