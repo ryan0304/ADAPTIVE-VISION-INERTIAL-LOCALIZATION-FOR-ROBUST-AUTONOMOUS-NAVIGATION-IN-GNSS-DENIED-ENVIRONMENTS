@@ -1,7 +1,7 @@
 # AlphaSwift — Autonomous Vision-Inertial Navigation in GNSS-Denied Environments
 
 Final Year Project · Multimedia University · 2025/2026
-Tung Tze Yang · Supervised by Dr Lo Yew Chiong · Industrial Supervisor Prathiv Rao A/L Apparao
+Ryan Tung Tze Yang · Supervised by Dr Lo Yew Chiong · Industrial Moderator Prathiv Rao A/L Apparao
 
 Autonomous hexacopter navigation using ArUco fiducial markers, optical flow,
 and a rangefinder for GPS-denied indoor flight. Achieves 0.04–0.06 m RMSE
